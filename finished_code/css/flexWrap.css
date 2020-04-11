@@ -5,3 +5,15 @@ body {
 .flex-container {
     flex-direction: row;
 }
+
+.nowrap {
+    flex-wrap: nowrap;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.wrap-reverse {
+    flex-wrap: wrap-reverse;
+}
