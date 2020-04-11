@@ -98,7 +98,7 @@ Webinar on CSS flexbox
 
 ![Slide1](./slides/Flex29.png)
 
-![Slide1](./slides/Flex30.png)
+![Slide1](./slides/flex30.png)
 
 ![Slide1](./slides/Flex31.png)
 
